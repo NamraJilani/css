@@ -1,0 +1,157 @@
+*{
+    box-sizing: border-box;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0;
+}
+.container{
+    background-color: rgb(246, 249, 250);
+
+}
+.nav-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(255, 255, 255);
+    font-weight: 400;
+    font-size: 12px;
+}
+.menu-container{
+    display: flex;
+}
+.menu-container ul{
+    display: flex;
+    justify-content: space-between;
+    width: 10%;
+    gap: 25%;
+    
+}
+.menu-container li
+{
+    display: flex;
+    cursor: pointer;
+    list-style: none;
+  
+}
+.menu-container li a{
+    text-decoration-line: none;
+    padding: 30px;
+    color: rgb(97, 97, 97);
+    font-weight: 500;
+    transition: 0.5ss linear;
+    font-size: 20px;
+    box-shadow: inset;
+    
+}
+
+.menu-container li:hover a{
+    color: #bc9579 !important;
+}
+.img{
+    width: 60%;
+    height: 10%;
+    margin: 7%;
+}
+.banner-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    height: 10vh;
+}
+.banner-text-container h1{
+    font-size: 21px;
+    font-weight: 170;
+    color: rgb(97, 97, 97);
+    text-align: center;
+    align-items: center;
+    padding: 10px;
+    margin: 20px;
+}
+.banner-text-container{
+    color: rgb(163, 163, 163);
+    font-size: 7px;
+    text-align: center;
+    margin-left: 5%;
+    margin-right: 5%;
+    font-family: "Quicksand", sans-serif;
+    font-weight: 1%;
+}
+.banner-container-images{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 2%;
+    margin-top: 7%;
+    margin-left: 5%;
+    margin-right: 5%;
+    gap: 5%;
+}
+
+.banner-img1{
+    width: 800px;
+    background-image: url(r-architecture-2gDwlIim3Uw-unsplash.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 200px;
+}
+.banner-img2{
+    background-image: url(r-architecture-wDDfbanbhl8-unsplash.jpg);
+    width: 800px;
+    height: 200px;
+    background-position: center;
+    background-size: cover;
+}
+.banner-img3{
+    background-image: url(todd-kent-178j8tJrNlc-unsplash.jpg);
+    width: 800px;
+    height: 200px;
+    background-position: center;
+    background-size: cover;
+}
+.banner-img4{
+    background-image: url(spacejoy-RUvW1KGD9a4-unsplash.jpg);
+    width: 800px;
+    height: 200px;
+    background-position: center;
+    background-size: cover;
+}
+.banner-container-text{
+    margin-top: 15%;
+}
+.banner-text1{
+    margin-left: 9%;
+    margin-top: 5px;
+    margin-right: 80%;
+}
+.banner-image-text-heading1{
+    font-size: 15px;
+}
+.banner-image-text1{
+    font-size: 15px;
+    line-height: 1.5em;
+    font-size: 13px;
+    font-family: Arial,Helvetica,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 1.5em;
+
+}
+.banner-text1{
+    margin-left: 7%;
+    margin-top: 5px;
+    margin-right: 79%;
+}
+.banner-image-text-heading1{
+    font-size: 15px;
+    padding-bottom: 9px;
+}
+.banner-image-text1{
+    font-size: 15px;
+    line-height: 1.5em;
+    font-size: 13px;
+    font-family: Arial,Helvetica,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 1.5em;
+
+}
+

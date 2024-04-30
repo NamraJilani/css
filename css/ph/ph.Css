@@ -1,0 +1,122 @@
+
+.zero{
+    height: 80px;
+    width: 35px;
+    color: rgb(3, 0, 0);
+    background-color:#d33a2a;
+    display: inline-block;
+    margin: 2px;
+}
+.one{
+    height: 80px;
+    width: 35px;
+    color: black;
+    background-color: #df610d;
+    display: inline-block;
+    margin: 2px;
+    
+}
+.two{
+    height: 80px;
+    width: 35px;
+    color: black;
+    background-color: #f08640;
+    display: inline-block;
+    margin: 2px;
+}
+.three{
+    height: 80px;
+    width: 35px;
+    color: black;
+    background-color: #fff200;
+    display: inline-block;
+    margin: 2px;
+}
+.four{
+    height: 80px;
+    width: 35px;
+    color: black;
+    background-color: #c3f804c2;
+    display: inline-block;
+    margin: 2px;
+}
+.five{
+    height: 80px;
+    width: 35px;
+    color: black;
+    background-color: #c6fc03;
+    display: inline-block;
+    margin: 2px;
+}
+.six{
+    height: 80px;
+    width: 35px;
+    color: black;
+    background-color:#66fc03;
+    display: inline-block;
+    margin: 2px;
+}
+.seven{
+    height: 80px;
+    width: 35px;
+    color: black;
+    background-color: rgb(3, 172, 3);
+    display: inline-block;
+    margin: 2px;
+}
+.eight{
+    height: 80px;
+    width: 35px;
+    color: black;
+    background-color: #2ecc71;
+    display: inline-block;
+    margin: 2px;
+}
+.nine{
+    height: 80px;
+    width: 35px;
+    color: black;
+    background-color: #03d1bc;
+    display: inline-block;
+    margin: 2px
+}
+.ten{
+    height: 80px;
+    width: 35px;
+    color: black;
+    background-color: rgb(178, 178, 216);
+    display: inline-block;
+    margin: 2px;
+}
+.eleven{
+    height: 80px;
+    width: 35px;
+    color: rgb(6, 10, 31);
+    background-color: rgb(36, 7, 7);
+    display: inline-block;
+    margin: 2px;
+}
+.twelve{
+    height: 80px;
+    width: 35px;
+    color: black;
+    background-color: #270eb5;
+    display: inline-block;
+    margin: 2px;
+}
+.thirteen{
+    height: 80px;
+    width: 35px;
+    color: rgb(141, 83, 83);
+    background-color: #4834d4;
+    display: inline-block;
+    margin: 2px;
+}
+.fourteen{
+    height: 80px;
+    width: 35px;
+    color: black;
+    background-color: #3c0194;
+    display: inline-block;
+    margin: 2px;
+}
